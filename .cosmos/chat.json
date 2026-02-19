@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "savedAt": "2026-02-19T09:56:27.550Z",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Olá! 👋 Sou especializado em criar aplicações para o Cosmos Pro.\n\nPosso gerar:\n• Menus de cards (como a tela de Dashboards Frequentes)\n• Dashboards com KPIs e gráficos (como Flash de Vendas)\n• CRUDs completos com tabelas e formulários\n• Relatórios com filtros e exportação\n\n💡 Dica: Cole uma imagem (Ctrl+V) ou anexe para usar como referência de layout!\n\nDescreva o que você precisa!"
+    },
+    {
+      "role": "user",
+      "content": "Crie um frontend em react igual ao DBGATE",
+      "hasImage": false
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 5 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    },
+    {
+      "role": "assistant",
+      "content": "🔧 Detectei um erro no código. Corrigindo automaticamente..."
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Código corrigido! Verifique o preview."
+    }
+  ]
+}
